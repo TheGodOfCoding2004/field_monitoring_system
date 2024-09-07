@@ -48,4 +48,5 @@ For more details ake a look at these blogs :
 1. [ESPNowW Part-1](https://medium.com/@forgamesonly684/espnoww-the-esp-now-wrapper-library-for-platformio-part-1-downloading-and-installing-the-02df58b241e9)
 2. [ESPNowW Part-2](https://medium.com/@forgamesonly684/espnoww-the-esp-now-wrapper-library-for-platformio-part-2-coding-the-esp-boards-using-6ccae4ee77cc)
 
+These blogs also touch on the basics of using PlatformIO IDE. So for new users , these blogs will be helpful. 
 
